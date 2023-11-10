@@ -12,8 +12,8 @@
 
 |File|Link|
 |----|----|
-|Pupil population (detail about pupil types)|england_census.csv|
-|Key stage 4 results (provisional)|england_ks4provisional.csv|
+|Pupil population (detail about pupil types)|[england_census.csv](https://media.githubusercontent.com/media/synesthesia/ukeduperformanceeng/master/2022-2023/england_census.csv)|
+|Key stage 4 results (provisional)|[england_ks4provisional.csv]()england_ks4provisional.csv)|
 |Key stage 4 pupil destinations (provisional)|england_ks4-pupdest.csv|
 |Key stage 4 qualification and subject data (provisional) (summary)|england_ks4underlying_1.xlsx|
 |Key stage 4 qualification and subject data (provisional) (detailed)|england_ks4underlying_entriesandgrades_2.xlsx|
