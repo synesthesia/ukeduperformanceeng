@@ -7,3 +7,12 @@
 - [Source](https://www.compare-school-performance.service.gov.uk/)
 - [Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 - [Methodology and Data Guidance](https://www.gov.uk/government/collections/school-and-college-performance-measures)
+
+## Data files
+
+|File|Link|
+|----|----|
+||england_census.csv|
+||england_ks4-pupdest.csv|
+||england_ks4provisional.csv|
+||england_ks4underlying_1.xlsx|
